@@ -1,0 +1,10 @@
+ticket-booking-app/
+├── config/
+│   └── db.js
+├── middleware/
+│   └── auth.js
+├── routes/
+│   ├── auth.js
+│   ├── events.js
+├── .env
+├── server.js
